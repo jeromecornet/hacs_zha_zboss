@@ -183,7 +183,7 @@ CONF_ZHA_ALARM_SCHEMA = vol.Schema(
 CUSTOM_CONFIGURATION = "custom_configuration"
 
 DATA_DEVICE_CONFIG = "zha_device_config"
-DATA_ZHA = "zha_custom"
+DATA_ZHA = "zha"
 DATA_ZHA_CONFIG = "config"
 DATA_ZHA_BRIDGE_ID = "zha_bridge_id"
 DATA_ZHA_CORE_EVENTS = "zha_core_events"
